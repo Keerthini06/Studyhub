@@ -1,12 +1,13 @@
  📚 StudyHub – Smart Study Planner
-
  📖 Overview
 
 StudyHub is a modern web-based study planner developed using HTML, CSS and JavaScript. It helps students organize their academic tasks through a simple, clean and responsive interface.
 
 The application stores all tasks in the browser using Local Storage, ensuring that tasks remain available even after refreshing or reopening the page.
 
- 🎯 Problem Statement
+
+
+🎯 Problem Statement
 
 Students often struggle to keep track of assignments, study schedules and pending work. Existing applications may be overly complex or require user accounts.
 
@@ -39,7 +40,8 @@ StudyHub/
 │── style.css
 │── script.js
 └── README.md
- 🚀 Installation
+
+🚀 Installation
 
 1. Download the project.
 
@@ -53,7 +55,7 @@ or
 
 Run using Live Server.
 
- 🔮 Future Enhancements
+🔮 Future Enhancements
 
 - Login System
 - User Accounts
@@ -65,8 +67,6 @@ Run using Live Server.
 - Categories
 - Cloud Storage
 - Progress Dashboard
-
-
  👩‍💻 Author
 
 Keerthini AK
