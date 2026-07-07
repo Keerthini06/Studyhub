@@ -66,7 +66,20 @@ Run using Live Server.
 - Search Tasks
 - Categories
 - Cloud Storage
-- Progress Dashboard
+- Progress Dashboard 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Tasks Added
+![Tasks Added](images/tasks.png)
+
+### Dark Mode
+![Dark Mode](images/darkmode.png)
+
+
+
  👩‍💻 Author
 
 Keerthini AK
