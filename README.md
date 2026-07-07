@@ -53,10 +53,7 @@ or
 
 Run using Live Server.
 
-## 📸 Screenshots
-
-
-## 🔮 Future Enhancements
+ 🔮 Future Enhancements
 
 - Login System
 - User Accounts
@@ -69,9 +66,8 @@ Run using Live Server.
 - Cloud Storage
 - Progress Dashboard
 
----
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
 Keerthini AK
 
